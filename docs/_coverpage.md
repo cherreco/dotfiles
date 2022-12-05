@@ -1,4 +1,4 @@
-# [~/.&nbsp;📂](https://github.com/jasonmorganson/dotfiles)
-# [dotfiles](https://github.com/jasonmorganson/dotfiles)
+# [~/.&nbsp;📂](https://github.com/cherreco/dotfiles)
+# [dotfiles](https://github.com/cherreco/dotfiles)
 
-# `curl -L morganson.tools | sh`
+# `curl -L {add_url_here} | sh`
