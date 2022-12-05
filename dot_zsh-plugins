@@ -32,10 +32,10 @@ twang817/zsh-ssh-agent
 
 # Automatic
 zsh-users/zsh-autosuggestions
-jasonmorganson/zsh-asdf-direnv
+cherreco/zsh-asdf-direnv
 
 # Prompt
 sindresorhus/pure
 
 # Personal
-jasonmorganson/zsh
+cherreco/zsh

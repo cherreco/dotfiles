@@ -1,15 +1,15 @@
-# [dotfiles](https://jasonmorganson.github.io/dotfiles)
+# [dotfiles](https://cherreco.github.io/dotfiles)
 
 Dotfiles, managed with [`chezmoi`](https://github.com/twpayne/chezmoi).
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jasonmorganson/dotfiles)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cherreco/dotfiles)
 
 ## Setup ##
 
 ### Run setup script ###
-> `curl -L http://morganson.tools | sh`
+> `curl -L http://{add_url_here} | sh`
 
-[Source](https://gist.github.com/jasonmorganson/8a6fae35533bba8594a3e05e0bbe2f4d)
+[Source](SETUP_SCRIPT.md)
 
 ## Usage ##
 
