@@ -1,0 +1,16 @@
+# CODEOWNERS
+#
+# Defines the code ownership in the repo.
+#
+# Each line is a file pattern followed by one or more owners.
+# Order is important; the last matching pattern takes the most
+# precedence.
+#
+# See https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+# This owner will be the default owner for everything in
+# the repo. Unless a later match takes precedence,
+# @data will be requested for
+# review when someone opens a pull request.
+
+* @cherreco/devops
