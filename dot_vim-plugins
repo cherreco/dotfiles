@@ -3,11 +3,11 @@
 " }
 
 " VIM Configuration {
-Plug 'jasonmorganson/vimrc'
+Plug 'cherreco/vimrc'
 " }
 
 " Plugin Configuration {
-Plug 'jasonmorganson/vim-pluginrc'
+Plug 'cherreco/vim-pluginrc'
 " }
 
 " General {
@@ -60,7 +60,7 @@ Plug 'milkypostman/vim-togglelist'
 " }
 
 " Colorschemes {
-Plug 'jasonmorganson/vim-colorscheme'
+Plug 'cherreco/vim-colorscheme'
 "Plug 'gerw/vim-HiLinkTrace'
 "Plug 'godlygeek/csapprox'
 "Plug 'lilydjwg/colorizer'
